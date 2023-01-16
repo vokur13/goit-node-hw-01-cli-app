@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-hw-01-cli-app",
+  "version": "1.0.0",
+  "description": "goit-node-hw-01-cli-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vokur13/goit-node-hw-01-cli-app.git"
+  },
+  "author": "VOLODYMYR KUROV VOKUR13@GMAIL.COM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vokur13/goit-node-hw-01-cli-app/issues"
+  },
+  "homepage": "https://github.com/vokur13/goit-node-hw-01-cli-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
