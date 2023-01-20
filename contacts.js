@@ -7,11 +7,6 @@ const path = require('path');
 // const id = uid();
 // console.log(id);
 
-// import { nanoid } from 'nanoid'
-// model.id = nanoid() //=> "V1StGXR8_Z5jdHi6B-myT"
-
-// console.log(uid);
-
 const contactsPath = path.resolve('db/contactsDemo.json');
 
 async function listContacts() {
